@@ -1,0 +1,21 @@
+{
+  "name": "game-maker-8",
+  "displayName": "Game Maker 8",
+  "description": "Game Maker 8 inspired theme for VS Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Game Maker 8",
+        "uiTheme": "vs",
+        "path": "./themes/Game Maker 8-color-theme.json"
+      }
+    ]
+  }
+}
