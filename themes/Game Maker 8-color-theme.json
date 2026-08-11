@@ -17,6 +17,13 @@
 		},
 
 		{
+			"scope": "storage.type.built-in.primitive,entity.name.type,support.type",
+			"settings": {
+				"foreground": "#000080",
+			}
+		},
+
+		{
 			"scope": "keyword.declaration,keyword.control,keyword.annotation,storage.modifier,punctuation.section.block,keyword.other",
 			"settings": {
 				"foreground": "#000080",

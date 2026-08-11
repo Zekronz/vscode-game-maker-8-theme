@@ -4,7 +4,7 @@
   "description": "Game Maker 8 inspired theme for VS Code.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.110.0"
+    "vscode": "^1.126.0"
   },
   "categories": [
     "Themes"
